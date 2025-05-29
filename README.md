@@ -161,7 +161,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 ## Contato
 
 - Email: ggbriel2k22@gmail.com
-- GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
+- GitHub: [https://github.com/GabrielDK-vish](https://github.com/GabrielDK-vish)
 
 ---
 
