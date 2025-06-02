@@ -5,7 +5,6 @@ description = "Geração de relatórios analíticos com IA a partir de DataFrame
 authors = [
     { name = "Gabriel", email = "negociogabriel2k25@outlook.com" }
 ]
-depend
 dependencies = [
     "pandas",
     "matplotlib",
