@@ -2,7 +2,7 @@
 name = "C3P"
 version = "0.1.0"
 description = "Geração de relatórios analíticos com IA a partir de DataFrames e PDFs de regras de negócio."
-authors = ["negociosgabriel2k25@outlook.com"]
+authors = ["negociogabriel2k25@outlook.com"]
 dependencies = [
     "pandas",
     "matplotlib",
