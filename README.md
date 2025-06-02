@@ -23,22 +23,12 @@ Uma biblioteca Python para geração de relatórios analíticos com IA a partir 
 ## Instalação
 
 ```bash
-pip install c3p
-```
-
-Ou diretamente do repositório:
-
-```bash
-git clone https://github.com/seu-usuario/C3P.git
-cd C3P
-pip install -e .
-```
+pip install smart-c3p
 
 ## Uso Básico
 
-```python
-import pandas as pd
-from c3p import SmartAnalytic
+```import pandas as pd
+from smart_c3p import SmartAnalytic
 
 # Criar DataFrames para análise
 df1 = pd.DataFrame({
